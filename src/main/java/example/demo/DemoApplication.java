@@ -1,4 +1,3 @@
-```java
 package example.demo;
 
 import org.springframework.boot.SpringApplication;
@@ -15,4 +14,3 @@ public class DemoApplication {
         System.out.println("Open: http://localhost:8080");
     }
 }
-```
